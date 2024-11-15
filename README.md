@@ -55,13 +55,13 @@ I'm always excited to collaborate on projects that push boundaries and make a di
 ## 🤝 Connect With Me
 
 <a href="https://x.com/M1rai76" target="_blank">
-    <img src="https://i.imgur.com/Y0PysQd.gif" width="50" height="50" />
+    <img src="https://i.imgur.com/Y0PysQd.gif" width="60" height="60" />
 </a>
 <a href="https://www.linkedin.com/in/samyak-diwan-b512a3237/" target="_blank">
-    <img src="https://i.imgur.com/uk8ByUH.gif" width="50" height="50" />
+    <img src="https://i.imgur.com/uk8ByUH.gif" width="60" height="60" />
 </a>
 <a href="https://www.hackerrank.com/profile/M1rai76" target="_blank">
-    <img src="https://i.imgur.com/YrEiYdl.gif" width="50" height="40" />
+    <img src="https://i.imgur.com/YrEiYdl.gif" width="60" height="60" />
 </a>
 
 

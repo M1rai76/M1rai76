@@ -54,8 +54,8 @@ I'm always excited to collaborate on projects that push boundaries and make a di
 
 ## 🤝 Connect With Me
 
-[![Twitter](https://i.imgur.com/your-twitter-gif-url.gif)](https://x.com/M1rai76)
-[![LinkedIn](https://i.imgur.com/your-linkedin-gif-url.gif)](https://www.linkedin.com/in/samyak-diwan-b512a3237/)
-[![HackerRank](https://i.imgur.com/your-hackerrank-gif-url.gif)](https://www.hackerrank.com/profile/M1rai76)
+[![Twitter](https://i.imgur.com/Y0PysQd.gif)](https://x.com/M1rai76)  
+[![LinkedIn](https://i.imgur.com/uk8ByUH.gif)](https://www.linkedin.com/in/samyak-diwan-b512a3237/)  
+[![HackerRank](https://i.imgur.com/YrEiYdl.gif)](https://www.hackerrank.com/profile/M1rai76)
 
 ---

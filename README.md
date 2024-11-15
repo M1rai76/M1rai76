@@ -39,17 +39,23 @@ I'm always excited to collaborate on projects that push boundaries and make a di
 
 ---
 
-### 📬 Connect with Me
-
-- **Email**: [samdiwan4@gmail.com](mailto:samdiwan4@gmail.com)
-- **LinkedIn**: [Samyak Diwan](https://www.linkedin.com/in/samyak-diwan-b512a3237/)
-- **LeetCode**: [Miraii76](https://leetcode.com/u/Miraii76/)
-
----
-
 ### 🎯 More About Me
 
 - **Problem-Solving Enthusiast**: I’ve solved over 100 problems on platforms like **LeetCode** and **CodeChef**, continually honing my algorithmic thinking and efficiency.
 - **Beyond the Code**: When I’m not coding, you might find me playing the **flute** at events, enjoying **public speaking**, or solving a **Rubik’s cube** for fun. I believe that a balanced lifestyle fuels innovation and resilience.
+
+---
+
+## 📊 GitHub Statistics
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical)
+
+---
+
+## 🤝 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/M1rai76)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyak-diwan-b512a3237/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/M1rai76)
 
 ---

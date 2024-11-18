@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Samyak Diwan**
+# 👋 Hi, I'm **@M1rai76**
 
 As a **Computer Engineering student at UNSW Sydney**, I’m passionate about diving into the realms of **Machine Learning** and **Data Science**. With a solid background in **algorithmic problem-solving** and **competitive programming**, I enjoy using my skills to tackle complex, real-world problems across diverse fields, including **Natural Language Processing (NLP)**, **Computer Vision**, and **Robotics**.
 

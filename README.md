@@ -49,7 +49,7 @@ I'm always excited to collaborate on projects that push boundaries and make a di
 | **Hotel Management System**             | Designed a responsive web-based system to handle bookings, guest management, and room availability.                | HTML, CSS, JavaScript, Node.js                     |
 | **Stock Price Prediction using LSTMs**  | Developed an LSTM-based time-series model to predict Microsoft stock prices from historical data.                  | Python, Keras, Pandas, Matplotlib                  |
 | **Fourier-Based Audio Enhancement**     | Enhanced audio quality using Fourier transforms to filter noise and improve signal clarity.                        | MATLAB, Python                                     |
-| **Space Invader Game 🚀**               | A simple 2D Space Invader game where players control a spaceship to shoot enemies, featuring player/enemy movement, collision detection, and score tracking with a game-over condition. | Python, Pygame                                     |
+| **Space Invader Game**               | A simple 2D Space Invader game where players control a spaceship to shoot enemies, featuring player/enemy movement, collision detection, and score tracking with a game-over condition. | Python, Pygame                                     |
 | **Clinic Management System (Java)**     | A console-based healthcare management application featuring user login, patient/doctor detail management, appointment booking, and OOP principles such as inheritance and encapsulation. | Java, OOP Concepts                                 |
 
 ---

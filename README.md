@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **@M1rai76**
+ # 👋 Hi, I'm **@M1rai76**
 
 As a **Computer Engineering student at UNSW Sydney**, I’m passionate about diving into the realms of **Machine Learning** and **Data Science**. With a solid background in **algorithmic problem-solving** and **competitive programming**, I enjoy using my skills to tackle complex, real-world problems across diverse fields, including **Natural Language Processing (NLP)**, **Computer Vision**, and **Robotics**.
 
@@ -36,6 +36,21 @@ I'm always excited to collaborate on projects that push boundaries and make a di
 - **Machine Learning Applications**: Working on solutions that utilize NLP, computer vision, or reinforcement learning.
 - **Generative AI for Product Development**: Applying generative models to create novel business solutions.
 - **Open-Source Contributions**: Enhancing libraries or tools in the AI, data science, and robotics communities.
+
+---
+
+## **🏅Noteworthy Projects**
+
+| **Name**                                | **Description**                                                                                                   | **Tech/tools**                                       |
+|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| **Drought Modeling Neural Networks**    | Built a neural network model to predict drought intensity using climate data predictors like temperature and SPI.  | Keras, TensorFlow, NumPy, Pandas, Matplotlib       |
+| **Wall-Following Robot**                | Developed a robot navigation system using ROS2, with wall-following and marker detection capabilities.             | ROS2, OpenCV, Nav2, tf2, RViz, Gazebo, Cartographer |
+| **Reinforcement Learning in Robotics**  | Implemented SARSA and Q-learning algorithms for grid-based robot navigation to maximize rewards and efficiency.    | Python, NumPy, Matplotlib, StaticGridEnv           |
+| **Hotel Management System**             | Designed a responsive web-based system to handle bookings, guest management, and room availability.                | HTML, CSS, JavaScript, Node.js                     |
+| **Stock Price Prediction using LSTMs**  | Developed an LSTM-based time-series model to predict Microsoft stock prices from historical data.                  | Python, Keras, Pandas, Matplotlib                  |
+| **Fourier-Based Audio Enhancement**     | Enhanced audio quality using Fourier transforms to filter noise and improve signal clarity.                        | MATLAB, Python                                     |
+| **Space Invader Game 🚀**               | A simple 2D Space Invader game where players control a spaceship to shoot enemies, featuring player/enemy movement, collision detection, and score tracking with a game-over condition. | Python, Pygame                                     |
+| **Clinic Management System (Java)**     | A console-based healthcare management application featuring user login, patient/doctor detail management, appointment booking, and OOP principles such as inheritance and encapsulation. | Java, OOP Concepts                                 |
 
 ---
 

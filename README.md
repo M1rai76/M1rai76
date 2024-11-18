@@ -62,22 +62,26 @@ I'm always excited to collaborate on projects that push boundaries and make a di
 ---
 <table style="width: 100%; border: 0; border-collapse: collapse;">
   <tr>
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
+    <!-- GitHub Statistics -->
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px; border: none;">
       <h2>📊 GitHub Statistics</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical" style="width: 80%; border-radius: 10px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical" style="width: 80%; border-radius: 10px;" alt="GitHub Stats" />
     </td>
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
+
+    <!-- Connect With Me -->
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px; border: none;">
       <h2>🤝 Connect With Me</h2>
       <a href="https://x.com/M1rai76" target="_blank" style="margin: 0 10px;">
-        <img src="https://i.imgur.com/Y0PysQd.gif" width="50" />
+        <img src="https://i.imgur.com/Y0PysQd.gif" width="50" alt="Twitter" />
       </a>
       <a href="https://www.linkedin.com/in/samyak-diwan-b512a3237/" target="_blank" style="margin: 0 10px;">
-        <img src="https://i.imgur.com/uk8ByUH.gif" width="50" />
+        <img src="https://i.imgur.com/uk8ByUH.gif" width="50" alt="LinkedIn" />
       </a>
       <a href="https://www.hackerrank.com/profile/M1rai76" target="_blank" style="margin: 0 10px;">
-        <img src="https://i.imgur.com/YrEiYdl.gif" width="50" />
+        <img src="https://i.imgur.com/YrEiYdl.gif" width="50" alt="HackerRank" />
       </a>
     </td>
   </tr>
 </table>
+
 

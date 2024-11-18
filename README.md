@@ -60,24 +60,28 @@ I'm always excited to collaborate on projects that push boundaries and make a di
 - **Beyond the Code**: When I’m not coding, you might find me playing the **flute** at events, enjoying **public speaking**, or solving a **Rubik’s cube** for fun. I believe that a balanced lifestyle fuels innovation and resilience.
 
 ---
-<table>
-  <tr>
-    <td>
-      <h2>📊 GitHub Statistics</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical" />
-    </td>
-    <td>
-      <h2>🤝 Connect With Me</h2>
-      <a href="https://x.com/M1rai76" target="_blank">
-        <img src="https://i.imgur.com/Y0PysQd.gif" width="50" />
-      </a>
-      <a href="https://www.linkedin.com/in/samyak-diwan-b512a3237/" target="_blank">
-        <img src="https://i.imgur.com/uk8ByUH.gif" width="50" />
-      </a>
-      <a href="https://www.hackerrank.com/profile/M1rai76" target="_blank">
-        <img src="https://i.imgur.com/YrEiYdl.gif" width="50" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+
+  <!-- GitHub Statistics Section -->
+  <div style="flex: 1; padding-right: 20px;">
+    <h2>📊 GitHub Statistics</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical" alt="GitHub Stats" style="width: 100%; border-radius: 10px;">
+  </div>
+
+  <!-- Connect With Me Section -->
+  <div style="flex: 1; text-align: center;">
+    <h2>🤝 Connect With Me</h2>
+    <a href="https://x.com/M1rai76" target="_blank" style="margin: 0 10px;">
+      <img src="https://i.imgur.com/Y0PysQd.gif" width="50" alt="Twitter">
+    </a>
+    <a href="https://www.linkedin.com/in/samyak-diwan-b512a3237/" target="_blank" style="margin: 0 10px;">
+      <img src="https://i.imgur.com/uk8ByUH.gif" width="50" alt="LinkedIn">
+    </a>
+    <a href="https://www.hackerrank.com/profile/M1rai76" target="_blank" style="margin: 0 10px;">
+      <img src="https://i.imgur.com/YrEiYdl.gif" width="50" alt="HackerRank">
+    </a>
+  </div>
+
+</div>
+
 

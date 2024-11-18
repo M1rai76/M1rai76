@@ -61,25 +61,30 @@ I'm always excited to collaborate on projects that push boundaries and make a di
 
 ---
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical" width="45%" align="left">
 
-<img width="45%" align="right" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+## 📈 GitHub Statistics
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical" width="47%" align="left">
+
+<div align="right" width="47%">
 
 ## 🤝 Connect With Me
-<div align="right">
-<a href="https://x.com/M1rai76" target="_blank">
-  <img src="https://i.imgur.com/Y0PysQd.gif" width="50" alt="Twitter" />
-</a>
-<a href="https://www.linkedin.com/in/samyak-diwan-b512a3237/" target="_blank">
-  <img src="https://i.imgur.com/uk8ByUH.gif" width="50" alt="LinkedIn" />
-</a>
-<a href="https://www.hackerrank.com/profile/M1rai76" target="_blank">
-  <img src="https://i.imgur.com/YrEiYdl.gif" width="50" alt="HackerRank" />
-</a>
+<div align="center">
+  <a href="https://x.com/M1rai76" target="_blank" style="margin-right: 10px;">
+    <img src="https://i.imgur.com/Y0PysQd.gif" width="50" alt="Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/samyak-diwan-b512a3237/" target="_blank" style="margin-right: 10px;">
+    <img src="https://i.imgur.com/uk8ByUH.gif" width="50" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/M1rai76" target="_blank">
+    <img src="https://i.imgur.com/YrEiYdl.gif" width="50" alt="HackerRank" />
+  </a>
+</div>
 </div>
 </div>
 
 <br clear="both">
+</div>
 
 
 

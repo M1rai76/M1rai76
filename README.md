@@ -60,24 +60,24 @@ I'm always excited to collaborate on projects that push boundaries and make a di
 - **Beyond the Code**: When I’m not coding, you might find me playing the **flute** at events, enjoying **public speaking**, or solving a **Rubik’s cube** for fun. I believe that a balanced lifestyle fuels innovation and resilience.
 
 ---
+<table>
+  <tr>
+    <td>
+      <h2>📊 GitHub Statistics</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical" />
+    </td>
+    <td>
+      <h2>🤝 Connect With Me</h2>
+      <a href="https://x.com/M1rai76" target="_blank">
+        <img src="https://i.imgur.com/Y0PysQd.gif" width="50" />
+      </a>
+      <a href="https://www.linkedin.com/in/samyak-diwan-b512a3237/" target="_blank">
+        <img src="https://i.imgur.com/uk8ByUH.gif" width="50" />
+      </a>
+      <a href="https://www.hackerrank.com/profile/M1rai76" target="_blank">
+        <img src="https://i.imgur.com/YrEiYdl.gif" width="50" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Statistics
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical)
-
----
-
-## 🤝 Connect With Me
-
-<a href="https://x.com/M1rai76" target="_blank">
-    <img src="https://i.imgur.com/Y0PysQd.gif" width="60" height="60" />
-</a>
-<a href="https://www.linkedin.com/in/samyak-diwan-b512a3237/" target="_blank">
-    <img src="https://i.imgur.com/uk8ByUH.gif" width="60" height="60" />
-</a>
-<a href="https://www.hackerrank.com/profile/M1rai76" target="_blank">
-    <img src="https://i.imgur.com/YrEiYdl.gif" width="60" height="60" />
-</a>
-
-
----

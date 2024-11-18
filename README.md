@@ -61,14 +61,17 @@ I'm always excited to collaborate on projects that push boundaries and make a di
 
 ---
 
-## 📊 GitHub Statistics
+<table>
+<tr>
+<td width="50%">
 
+## 📊 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical)
 
----
+</td>
+<td width="50%">
 
 ## 🤝 Connect With Me
-
 <a href="https://x.com/M1rai76" target="_blank">
   <img src="https://i.imgur.com/Y0PysQd.gif" width="50" alt="Twitter" />
 </a>
@@ -78,6 +81,10 @@ I'm always excited to collaborate on projects that push boundaries and make a di
 <a href="https://www.hackerrank.com/profile/M1rai76" target="_blank">
   <img src="https://i.imgur.com/YrEiYdl.gif" width="50" alt="HackerRank" />
 </a>
+
+</td>
+</tr>
+</table>
 
 
 

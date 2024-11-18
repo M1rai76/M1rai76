@@ -60,31 +60,33 @@ I'm always excited to collaborate on projects that push boundaries and make a di
 - **Beyond the Code**: When I’m not coding, you might find me playing the **flute** at events, enjoying **public speaking**, or solving a **Rubik’s cube** for fun. I believe that a balanced lifestyle fuels innovation and resilience.
 
 ---
-<div align="left">
 
-## 📈 GitHub Statistics
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical" width="47%" align="left">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
 
-<div align="right" width="47%">
+  <!-- GitHub Statistics -->
+  <div style="width: 50%; text-align: left;">
+    <h2>📈 GitHub Statistics</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical" style="width: 90%; border-radius: 10px;" alt="GitHub Stats">
+  </div>
 
-## 🤝 Connect With Me
-<div align="center">
-  <a href="https://x.com/M1rai76" target="_blank" style="margin-right: 10px;">
-    <img src="https://i.imgur.com/Y0PysQd.gif" width="50" alt="Twitter" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/samyak-diwan-b512a3237/" target="_blank" style="margin-right: 10px;">
-    <img src="https://i.imgur.com/uk8ByUH.gif" width="50" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/M1rai76" target="_blank">
-    <img src="https://i.imgur.com/YrEiYdl.gif" width="50" alt="HackerRank" />
-  </a>
-</div>
-</div>
+  <!-- Connect With Me -->
+  <div style="width: 50%; text-align: center;">
+    <h2>🤝 Connect With Me</h2>
+    <div style="margin-top: 10px;">
+      <a href="https://x.com/M1rai76" target="_blank" style="margin-right: 15px;">
+        <img src="https://i.imgur.com/Y0PysQd.gif" width="60" alt="Twitter">
+      </a>
+      <a href="https://www.linkedin.com/in/samyak-diwan-b512a3237/" target="_blank" style="margin-right: 15px;">
+        <img src="https://i.imgur.com/uk8ByUH.gif" width="60" alt="LinkedIn">
+      </a>
+      <a href="https://www.hackerrank.com/profile/M1rai76" target="_blank">
+        <img src="https://i.imgur.com/YrEiYdl.gif" width="60" alt="HackerRank">
+      </a>
+    </div>
+  </div>
+
 </div>
 
-<br clear="both">
-</div>
 
 
 

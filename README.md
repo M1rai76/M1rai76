@@ -1,5 +1,10 @@
- # 👋 Hi, I'm **@M1rai76**
+<h1 align="center">Hello, I'm Samyak Diwan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> </h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Machine+Learning+and+Robotics+Enthusiast;Always+Learning+New+Things&center=true">
+  </a>
+</p>
 As a **Computer Engineering student at UNSW Sydney**, I’m passionate about diving into the realms of **Machine Learning** and **Data Science**. With a solid background in **algorithmic problem-solving** and **competitive programming**, I enjoy using my skills to tackle complex, real-world problems across diverse fields, including **Natural Language Processing (NLP)**, **Computer Vision**, and **Robotics**.
 
 Currently, I’m focused on enhancing my expertise in **ROS2** and exploring the possibilities of AI, from climate prediction models to autonomous navigation. I strive to blend technical skills with creativity to develop impactful AI solutions.

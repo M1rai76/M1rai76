@@ -1,87 +1,118 @@
-<h1 align="center">Hello, I'm Samyak Diwan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> </h1>
+<h1 align="center">Hey, I'm Samyak Diwan</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Machine+Learning+and+Robotics+Enthusiast;Always+Learning+New+Things&center=true&width=600">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+UNSW;Building+Agentic+AI+Systems;LLMs+%7C+LangGraph+%7C+Prompt+Engineering;Turning+Research+into+Real+Products" alt="Typing SVG" />
   </a>
 </p>
 
-As a **Computer Engineering student at UNSW Sydney**, I’m passionate about diving into the realms of **Machine Learning** and **Data Science**. With a solid background in **algorithmic problem-solving** and **competitive programming**, I enjoy using my skills to tackle complex, real-world problems across diverse fields, including **Natural Language Processing (NLP)**, **Computer Vision**, and **Robotics**.
-
-Currently, I’m focused on enhancing my expertise in **ROS2** and exploring the possibilities of AI, from climate prediction models to autonomous navigation. I strive to blend technical skills with creativity to develop impactful AI solutions.
-
----
-
-### 🔍 What I'm Passionate About
-
-- **Machine Learning & Data Science**: Crafting models to extract insights, make predictions, and optimize processes.
-- **Natural Language Processing**: Building language-driven applications that facilitate seamless human-computer interaction.
-- **Computer Vision**: Applying visual processing techniques to enable automation and intelligence in systems.
-- **Robotics & ROS2**: Designing control and navigation algorithms for autonomous robotic platforms.
-- **Generative AI for Business**: Exploring how generative models can innovate business solutions and boost productivity.
-- **Algorithms & Problem Solving**: Tackling challenges with efficient algorithmic solutions in competitive coding.
+<p align="center">
+  <a href="https://linkedin.com/in/samyakdiwan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/M1rai76"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:samdiwan4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/M1rai76"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
 
 ---
 
-### 📚 My Current Learning Journey
+## About Me
 
-- **Advanced Machine Learning**: Delving deeper into neural networks, reinforcement learning, and transfer learning techniques.
-- **Deep Learning Frameworks**: Expanding my toolkit with TensorFlow, Keras, and PyTorch, especially for NLP and vision applications.
-- **Robotics Systems (ROS2)**: Gaining proficiency in autonomous navigation and sensor integration.
-- **Data Visualization & Analysis**: Leveraging Pandas, Matplotlib, and Seaborn to transform data into meaningful visuals.
-- **Blender & Unity**: Experimenting with 3D modeling in Blender and game development in Unity, with a focus on NPC behavior.
+I'm a Computer Engineering student at UNSW Sydney, specialising in AI and machine learning. I got into AI in 2024 and it quickly became the thing I was most passionate about. Since then I've been building production-level agentic systems, running LLM research, and figuring out how to make AI actually useful rather than just impressive.
 
----
+Currently working on my **Honours Thesis** benchmarking LLM code generation through prompt engineering across 1,100+ tasks.
 
-### 🤝 Let's Build Something Together
-
-I'm always excited to collaborate on projects that push boundaries and make a difference. Here are some areas where I’d love to contribute:
-
-- **AI & Robotics**: Implementing intelligent control systems and exploring advanced robotics with ROS2.
-- **Data Science Innovations**: Developing models for predictive analytics, optimization, and insightful data processing.
-- **Machine Learning Applications**: Working on solutions that utilize NLP, computer vision, or reinforcement learning.
-- **Generative AI for Product Development**: Applying generative models to create novel business solutions.
-- **Open-Source Contributions**: Enhancing libraries or tools in the AI, data science, and robotics communities.
+- Based in Sydney, Australia
+- Open to grad roles and internships in AI and software engineering
+- Weighted Average Mark: **Distinction**
 
 ---
 
-## **🏅Noteworthy Projects**
+## Experience
 
-| **Name**                                | **Description**                                                                                                   | **Tech/tools**                                       |
-|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| **Drought Modeling Neural Networks**    | Built a neural network model to predict drought intensity using climate data predictors like temperature and SPI.  | Keras, TensorFlow, NumPy, Pandas, Matplotlib       |
-| **Wall-Following Robot**                | Developed a robot navigation system using ROS2, with wall-following and marker detection capabilities.             | ROS2, OpenCV, Nav2, tf2, RViz, Gazebo, Cartographer |
-| **Reinforcement Learning in Robotics**  | Implemented SARSA and Q-learning algorithms for grid-based robot navigation to maximize rewards and efficiency.    | Python, NumPy, Seaborn, StaticGridEnv              |
-| **Hotel Management System**             | Designed a responsive web-based system to handle bookings, guest management, and room availability.                | HTML, CSS, JavaScript, Node.js                     |
-| **Stock Price Prediction using LSTMs**  | Developed an LSTM-based time-series model to predict Microsoft stock prices from historical data.                  | Python, Keras, Pandas, Matplotlib                  |
-| **Fourier-Based Audio Enhancement**     | Enhanced audio quality using Fourier transforms to filter noise and improve signal clarity.                        | MATLAB, Python                                     |
-| **Space Invader Game**               | A simple 2D Space Invader game where players control a spaceship to shoot enemies, featuring player/enemy movement, collision detection, and score tracking with a game-over condition. | Python, Pygame                                     |
-| **Clinic Management System (Java)**     | A console-based healthcare management application featuring user login, patient/doctor detail management, appointment booking, and OOP principles such as inheritance and encapsulation. | Java, OOP Concepts                                 |
+### Machine Learning Intern @ REAN Foundation *(Feb 2025 - May 2025)*
+
+Healthcare workers and patients across different language groups faced significant communication barriers with no AI infrastructure in place to bridge the gap. I built a multilingual agentic chatbot using **LangGraph** with ReAct and Chain-of-Thought workflows, integrating **LangMemSDK** for persistent memory and personalised diet plan generation. This achieved a **70% improvement in user engagement** through context-aware food suggestions and weekly health summaries.
 
 ---
 
-### 🎯 More About Me
+### AI Software Developer Intern @ Inflection Zone *(Dec 2024 - Feb 2025)*
 
-- **Problem-Solving Enthusiast**: I’ve solved over 100 problems on platforms like **LeetCode** and **CodeChef**, continually honing my algorithmic thinking and efficiency.
-- **Beyond the Code**: When I’m not coding, you might find me playing the **flute** at events, enjoying **public speaking**, or solving a **Rubik’s cube** for fun. I believe that a balanced lifestyle fuels innovation and resilience.
+The team was managing reminders, FAQs and feedback across 7+ interaction types manually with no scalable solution in place. I designed a **LangGraph** routing system with intent detection and natural language time-parsing, then restructured **LangChain AgentExecutor** workflows to eliminate redundant tool invocations. The result was a **25% reduction in response latency** and full automation of message routing across all interaction types.
+
+---
+
+## Projects
+
+### Enhancing Code Generation in LLMs via Prompt Engineering *(Honours Thesis)*
+> Python | Docker | HumanEval | MBPP | Groq API | Katana HPC
+
+No reproducible unified framework existed to measure how prompt design affects LLM code quality across standard and enhanced test suites. I built a Docker-based evaluation pipeline with automated logging across 1,100+ tasks, implementing prompt strategies including baseline, zero-shot, role-framing and edge-case prompting across 8+ models on the Katana HPC cluster. The work surfaced a correctness-robustness trade-off across strategies, with zero-shot offering the best overall balance and contributing practical prompt engineering guidelines for code generation.
 
 ---
 
-## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M1rai76&layout=compact&theme=radical)
+### Emoji Sarcasm Detection in Text Messages
+> Python | PyTorch | HuggingFace | scikit-learn | TweetEval | iSarcasmEval
+
+Existing sarcasm detection models ignored emoji signals despite their prevalence in social media text. I fine-tuned **Twitter-RoBERTa-base** on TweetEval and SARC 2.0, engineering 100+ emoji-specific features from the Emoji Sentiment lexicon fused with TF-IDF representations across 3+ emoji-handling modes. The model outperformed Logistic Regression and pre-trained BERT baselines on Macro-F1, with qualitative error analysis identifying 5+ recurring failure categories including implicit sarcasm and emoji-only cues.
 
 ---
-## 🤝 Connect With Me
-<a href="https://x.com/M1rai76" target="_blank">
-  <img src="https://i.imgur.com/Y0PysQd.gif" width="50" alt="Twitter" />
-</a>
-<a href="https://www.linkedin.com/in/samyak-diwan-b512a3237/" target="_blank">
-  <img src="https://i.imgur.com/uk8ByUH.gif" width="50" alt="LinkedIn" />
-</a>
-<a href="https://www.hackerrank.com/profile/M1rai76" target="_blank">
-  <img src="https://i.imgur.com/YrEiYdl.gif" width="50" alt="HackerRank" />
-</a>
 
+### Lexical CEFR Transformation
+> Python | spaCy | NLTK | scikit-learn | WordNet | pyinflect
 
+There was no reliable pipeline to transform English text across CEFR difficulty levels while preserving grammatical correctness. I built a system using a TF-IDF CEFR vocabulary map, Laplace-smoothed bigram language model and WordNet semantic filtering, resolving cross-POS substitution errors through majority-vote POS assignment and a two-threshold scoring system. This produced grammatically accurate substitutions across difficulty levels with higher precision by distinguishing WordNet-confirmed from vector-only candidates.
 
+---
 
+### Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Drought Modelling Neural Networks** | Predicted drought intensity using climate data predictors like temperature and SPI | Keras, TensorFlow, NumPy |
+| **Wall-Following Robot** | Navigation system with wall-following and marker detection | ROS2, OpenCV, Nav2, Gazebo |
+| **Stock Price Prediction (LSTM)** | Time-series model to predict Microsoft stock prices | Python, Keras, Pandas |
+| **Hotel Management System** | Responsive web app for bookings, guest and room management | HTML, CSS, JavaScript, Node.js |
+| **Clinic Management System** | Console-based healthcare app with OOP design | Java |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Tools & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6D28D9?style=flat-square&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+
+---
+
+## A Bit More About Me
+
+- Flute player and public speaker when I'm not writing code
+- Rubik's cube solver for the dopamine
+- 100+ problems on LeetCode and CodeChef
+---
+
+<p align="center">
+  <i>Always building. Always learning.</i>
+</p>
